@@ -1,5 +1,6 @@
 body {
   text-align: center;
+  margin-top: 50px;
 }
 
 .navbar {
@@ -19,6 +20,3 @@ body {
   text-decoration: none;
 }
 
-.main {
-  margin-top: 30px;
-}
